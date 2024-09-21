@@ -7,6 +7,9 @@ export default function Home() {
       <Link href="/njs">
         NJS
       </Link>
+      <Link href="/Blog">
+        Blog
+      </Link>
     </main>
   );
 }
